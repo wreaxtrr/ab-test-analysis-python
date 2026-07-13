@@ -35,7 +35,7 @@
 - `pages_visited` — количество просмотренных страниц;
 - `device_type` — тип устройства.
 
-Датасет не включён в репозиторий. Для воспроизведения анализа нужно скачать CSV-файл с Kaggle и положить его рядом с ноутбуком под названием:
+Датасет не включён в репозиторий. Для воспроизведения анализа нужно скачать CSV-файл с [Kaggle](https://www.kaggle.com/datasets/aadbutt/ab-testing) и положить его в папку `notebooks/` рядом с ноутбуком под названием:
 
 ```text
 AB Testing Data.csv
@@ -133,8 +133,8 @@ ab-test-analysis-python/
 pip install -r requirements.txt
 ```
 
-3. Скачать датасет с Kaggle.
-4. Положить CSV-файл рядом с ноутбуком под названием:
+3. Скачать датасет с [Kaggle](https://www.kaggle.com/datasets/aadbutt/ab-testing).
+4. Положить CSV-файл в папку `notebooks/` рядом с ноутбуком под названием:
 
 ```text
 AB Testing Data.csv
